@@ -26,7 +26,6 @@ const PlatformSelector = ({ onSelectPlatform, selectedPlatform }: Props) => {
             {platform.name}
           </MenuItem>
         ))}
-        ;
       </MenuList>
     </Menu>
   );
